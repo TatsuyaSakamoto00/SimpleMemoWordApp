@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MemoriesWordApp</string>
+    <string name="str_btn">TAP TO START</string>
+    <string name="add_btn">追加</string>
+    <string name="rmv_btn">削除</string>
+    <string name="edit_btn">編集</string>
+    <string name="group_btn">ジャンル</string>
+    <string name="save_btn">保存</string>
+
+</resources>
